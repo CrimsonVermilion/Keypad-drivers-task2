@@ -1,0 +1,42 @@
+# ninja log v5
+1	3210	6724392132288210	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad/Debug/Obj/keypad.o	f9f5da84f18d3501
+326	1839	6724392168188720	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad/Debug/Exe/lab6.out	e37aa87c0441107d
+156	242	6724523427420412	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Exe/lab6.out	3d8a7c7177d0e434
+16	569	6724520571189686	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Obj/main.o	aaf872f2c15eeb4a
+7	175	6724392152039903	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad/Debug/Obj/main.o	d1d7853afdcb6b4e
+2	317	6724392153449602	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad/Debug/Obj/DIO.o	d947110f8088605
+2	148	6724523426488246	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Obj/keypad.o	1de699b8d9add706
+3	1010	6724474370982455	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Obj/DIO.o	a854cc4f6c223b44
+0	376	6724525950998107	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Obj/main.o	aaf872f2c15eeb4a
+2	325	6724526086723175	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Obj/main.o	aaf872f2c15eeb4a
+3	175	6724526152709406	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Obj/main.o	aaf872f2c15eeb4a
+224	314	6724526154059311	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Exe/lab6.out	3d8a7c7177d0e434
+4	197	6724526177800927	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Obj/main.o	aaf872f2c15eeb4a
+10	115	6724526186162568	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Exe/lab6.out	3d8a7c7177d0e434
+11	267	6724526612267915	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Obj/main.o	aaf872f2c15eeb4a
+275	380	6724526613586356	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Exe/lab6.out	3d8a7c7177d0e434
+1	166	6724527886642613	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Obj/main.o	aaf872f2c15eeb4a
+3	113	6724527907116437	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Exe/lab6.out	3d8a7c7177d0e434
+2	172	6724528492064093	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Obj/main.o	aaf872f2c15eeb4a
+179	284	6724528493208988	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Exe/lab6.out	3d8a7c7177d0e434
+0	227	6724529868269909	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Obj/main.o	aaf872f2c15eeb4a
+6	122	6724529902361917	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Exe/lab6.out	3d8a7c7177d0e434
+4	208	6724530311952987	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Obj/main.o	aaf872f2c15eeb4a
+215	304	6724530312926668	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Exe/lab6.out	3d8a7c7177d0e434
+2	179	6724531028146541	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Obj/main.o	aaf872f2c15eeb4a
+186	266	6724531029075375	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Exe/lab6.out	3d8a7c7177d0e434
+8	225	6724532421659518	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Obj/main.o	aaf872f2c15eeb4a
+232	327	6724532422708428	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad - Copy/Debug/Exe/lab6.out	3d8a7c7177d0e434
+1	331	6724671484742998	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad task2/Debug/Obj/main.o	4d505f77ffb7cb1d
+0	170	6724674043100312	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad task2/Debug/Obj/main.o	4d505f77ffb7cb1d
+1	142	6724674202887740	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad task2/Debug/Obj/main.o	4d505f77ffb7cb1d
+1	276	6724674637530732	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad task2/Debug/Obj/main.o	4d505f77ffb7cb1d
+2	196	6724676258961940	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad task2/Debug/Obj/keypad.o	ea6a57b71b3d0c2e
+14	254	6724676259522406	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad task2/Debug/Obj/DIO.o	94648ffe26195bb8
+260	597	6724676263004959	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad task2/Debug/Exe/lab6.out	39b35f40e159860f
+2	203	6724676886215205	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad task2/Debug/Obj/main.o	4d505f77ffb7cb1d
+209	306	6724676887283635	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad task2/Debug/Exe/lab6.out	39b35f40e159860f
+2	1367	6726061503658265	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad task2/Debug/Obj/main.o	4d505f77ffb7cb1d
+1375	2237	6726061512459809	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad task2/Debug/Exe/lab6.out	39b35f40e159860f
+2	148	6726062527469855	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad task2/Debug/Obj/main.o	4d505f77ffb7cb1d
+154	319	6726062529186986	D:/Study/3rd mechatronics/2nd Term/embedded projects/IAR/lab6 keypad task2/Debug/Exe/lab6.out	39b35f40e159860f
